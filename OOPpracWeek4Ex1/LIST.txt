@@ -1,0 +1,20 @@
+Size:10x10,Number of pages: 100,Kind of book: Textbook,Student Edition: MyPerspectives Print Consumable SE 1 Year + Digital Courseware 1 Year.
+Grade: 10,Part: 1+2,Published: 2022,Publisher: Vietnam Education Publishing House,Republish: 3.
+Size:10x10,Number of pages: 100,Kind of book: Novel,The Adventures of Huckleberry Finn.
+Part: 1+2+3,Published: 2018,Publisher: USSR Nation Publishing House,Republish: 1,Translator: Joseph Stalin,Author: Mark Twain.
+Size:10x10,Number of pages: 100,Kind of book: Magazine,The New York Times Style Magazine.
+Published: 2020,Publisher: US Nation Publishing House,Author: US Nation Publishing House.
+Size:10x10,Number of pages: 100,Kind of book: Textbook,Vocabulary Power Plus for the ACT.
+Grade: 11,Part: 1,Published: 2022,Publisher: Vietnam Education Publishing House,Republish: 1.
+Size:10x10,Number of pages: 100,Kind of book: Novel,In Search of Lost Time.
+Part: 1+2+3,Published: 1945,Publisher: SSA War Publishing House,Republish: 10,Translator: Harry Truman,Author: Marcel Proust.
+Size:10x10,Number of pages: 100,Kind of book: Magazine,WSJ Magazine.
+Published: 2020,Publisher: US Nation Publishing House,Author: US Nation Publishing House.
+Size:10x10,Number of pages: 100,Kind of book: Textbook,AP Environmental Science.
+Grade: 12,Part: 1+2,Published: 2022,Publisher: Vietnam Education Publishing House,Republish: 10.
+Size:10x10,Number of pages: 100,Kind of book: Novel,The Republic.
+Part: 1+2+3,Published: 380BCE,Publisher: Soviet State of America Publishing House,Republish: 100,Translator: Vladimir Ilyich Lenin,Author: Plato.
+Size:10x10,Number of pages: 100,Kind of book: Magazine,Bloomberg Businessweek.
+Published: 2020,Publisher: US Nation Publishing House,Author: US Nation Publishing House.
+Size:10x10,Number of pages: 100,Kind of book: Novel,The Communist Manifesto.
+Part: 1,Published: 1848,Publisher: People Publishing House,Republish: 0,Translator: Karl Marx,Author: Karl Marx.
